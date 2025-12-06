@@ -1,0 +1,392 @@
+[
+    {
+        "source":{
+            "id":null,
+            "name":"Harvard Business Review"
+        },
+        "author":null,
+        "title":"Inside India\u2019s Energy Transition: Tata Power\u2019s Net Zero Strategy",
+        "description":"How should the energy company allocate capital between proven thermal assets and emerging renewable technologies?",
+        "url":"https:\/\/hbr.org\/podcast\/2025\/10\/inside-indias-energy-transition-tata-powers-net-zero-strategy",
+        "urlToImage":"https:\/\/hbr.org\/resources\/images\/article_assets\/2025\/02\/wide-cold-call-25.png",
+        "publishedAt":"2025-10-28T12:15:00Z",
+        "content":"BRIAN KENNY: Welcome to Cold Call, where we dive deep into Harvard Business School\u2019s groundbreaking case studies. It\u2019s been 10 years since 195 nations signed the Paris Agreement, the landmark interna\u2026 [+37166 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Gizmodo.com"
+        },
+        "author":"Ellyn Lapointe",
+        "title":"Powering AI Could Soon Use as Much Water as 10 Million Americans",
+        "description":"The researchers\u2019 recommendations could reduce AI\u2019s carbon emissions by up to 73%.",
+        "url":"https:\/\/gizmodo.com\/training-ai-could-soon-use-as-much-water-as-10-million-americans-2000683679",
+        "urlToImage":"https:\/\/gizmodo.com\/app\/uploads\/2025\/11\/data-center-interior-1200x675.jpg",
+        "publishedAt":"2025-11-10T16:35:45Z",
+        "content":"The rise of AI is changing the world in more ways than one. As this booming new industry revolutionizes the way we live and work, scientists are racing to quantify its environmental impact as well.\r\n\u2026 [+3780 chars]"
+    },
+    {
+        "source":{
+            "id":"the-verge",
+            "name":"The Verge"
+        },
+        "author":"Justine Calma",
+        "title":"How one mountain town hopes AI can help it fight wildfires",
+        "description":"A popular ski resort town in Colorado is adopting a new AI Smart City Solution from Hewlett Packard Enterprise (HPE) to help it better detect wildfires, as well as update a range of other city services. Vail is expanding its firefighting toolbox as hotter, mo\u2026",
+        "url":"https:\/\/www.theverge.com\/report\/809348\/ai-fire-detection-vail-hpe-smart-city-platform",
+        "urlToImage":"https:\/\/platform.theverge.com\/wp-content\/uploads\/sites\/2\/chorus\/uploads\/chorus_asset\/file\/25824779\/STK438_CLIMATE_CHANGE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt":"2025-10-29T20:48:30Z",
+        "content":"<ul><li><\/li><li><\/li><li><\/li><\/ul>\r\nA new HPE smart city platform is meant to bolster wildfire response in Vail, Colorado.\r\nA new HPE smart city platform is meant to bolster wildfire response in Va\u2026 [+5808 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"BBC News"
+        },
+        "author":null,
+        "title":"Government vows to create 400,000 jobs in energy sector",
+        "description":"Ed Miliband says the UK's clean energy sector needs developing in order to \"get bills down for good\".",
+        "url":"https:\/\/www.bbc.com\/news\/articles\/c3vnr45x5qyo",
+        "urlToImage":"https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/3836\/live\/0c7a8520-accb-11f0-8be0-edba131ad73f.jpg",
+        "publishedAt":"2025-10-19T09:52:42Z",
+        "content":"The government has announced plans to train and recruit more workers for the UK's clean energy sector, promising to create 400,000 extra jobs by 2030.\r\nPlumbers, electricians and welders are among 31\u2026 [+2823 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Moneydigest.com"
+        },
+        "author":"Larissa Zageris",
+        "title":"This Major Energy Company Is Blaming The White House For Its Bankruptcy",
+        "description":"This major renewable energy company has filed for bankruptcy protection, citing Trump's energy policy shifts as the reason for its struggles.",
+        "url":"https:\/\/www.moneydigest.com\/2022793\/energy-company-filed-for-bankruptcy-blaming-white-house-pine-gate\/",
+        "urlToImage":"https:\/\/s.yimg.com\/ny\/api\/res\/1.2\/meRdImiw7vDMaOYdZ13D3Q--\/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-\/https:\/\/media.zenfs.com\/en\/money_digest_articles_438\/76430892f26568bfbc751e6a66d2e188",
+        "publishedAt":"2025-11-11T11:30:00Z",
+        "content":"The White House behind an iron fence with a U.S. flag on top at full mast - Douglas Rissing\/Getty Images\r\nOne of the largest renewable energy developers has filed for bankruptcy, and it's blaming Pre\u2026 [+4491 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"BBC News"
+        },
+        "author":null,
+        "title":"Source of Miliband's energy bill pledge casts doubt on savings",
+        "description":"The expert behind the research on which a \u00a3300 savings pledge is based says the promise is \"tricky\" to deliver.",
+        "url":"https:\/\/www.bbc.com\/news\/articles\/cwy7gj181k0o",
+        "urlToImage":"https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/0426\/live\/7d064620-aea7-11f0-b305-65f4f8d88da9.jpg",
+        "publishedAt":"2025-10-22T23:52:08Z",
+        "content":"Joshua NevettPolitical reporter\r\nEnergy Secretary Ed Miliband's promise to cut energy bills by \u00a3300 could be \"wiped out\" by rising electricity costs, according to the expert behind the savings estima\u2026 [+6000 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Slashdot.org"
+        },
+        "author":"msmash",
+        "title":"India Draft Plan Reveals $21 Trillion Net-Zero Investment Need",
+        "description":"India will need as much as $21 trillion to achieve its climate goals and lift its population out of poverty, according to a draft government plan seen by Bloomberg. From the report: The estimate offers a first glimpse of how the country intends to live up to \u2026",
+        "url":"https:\/\/news.slashdot.org\/story\/25\/10\/20\/1447219\/india-draft-plan-reveals-21-trillion-net-zero-investment-need",
+        "urlToImage":"https:\/\/a.fsdn.com\/sd\/topics\/earth_64.png",
+        "publishedAt":"2025-10-20T15:22:00Z",
+        "content":"Often these types of analysis focus on only the costs of investing in renewables and ignore the financial benefits of the investment.There are solid benefits to eliminating fossil fuels (cost of the \u2026 [+311 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Yahoo Entertainment"
+        },
+        "author":"Tsvetana Paraskova",
+        "title":"India\u2019s Power Generation Suffers Sharpest Drop Since 2020",
+        "description":"India\u2019s power generation fell 6% year-on-year in October, the steepest decline since 2020, as rain and holidays curbed industrial demand even as renewable...",
+        "url":"https:\/\/www.yahoo.com\/news\/articles\/india-power-generation-suffers-sharpest-104425214.html",
+        "urlToImage":"https:\/\/media.zenfs.com\/en\/oilprice.com\/a320d2675c2606ec6331044bc0570435",
+        "publishedAt":"2025-11-03T10:44:25Z",
+        "content":"Power generation in India plunged by 6% in October from a year earlier \u2013 the sharpest drop since the Covid lockdowns in 2020 \u2013 as lower industrial demand due to holidays and unusually rainy weather d\u2026 [+2200 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Gizmodo.com"
+        },
+        "author":"Ellyn Lapointe",
+        "title":"Offshore Turbines Are Reaching Their Breaking Point",
+        "description":"Apparently, there can be too much of a good thing when it comes to renewable energy sources.",
+        "url":"https:\/\/gizmodo.com\/offshore-turbines-are-reaching-their-breaking-point-2000680972",
+        "urlToImage":"https:\/\/gizmodo.com\/app\/uploads\/2025\/11\/offshore-wind-farm-1200x675.jpg",
+        "publishedAt":"2025-11-04T16:00:25Z",
+        "content":"When Hurricane Melissa slammed into Jamaica last week, it tied with two other hurricanes for the highest landfalling wind speeds on record in the Atlantic. This tropical cyclones unprecedented streng\u2026 [+3453 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Slashdot.org"
+        },
+        "author":"BeauHD",
+        "title":"Microsoft Forms Superintelligence Team Under AI Chief Suleyman 'To Serve Humanity'",
+        "description":"Microsoft is launching a new MAI Superintelligence Team under Mustafa Suleyman to build practical, controllable AI aimed at digital companions, medical diagnostics, and renewable-energy modeling. \"We are doing this to solve real concrete problems and do it in\u2026",
+        "url":"https:\/\/slashdot.org\/story\/25\/11\/06\/2326229\/microsoft-forms-superintelligence-team-under-ai-chief-suleyman-to-serve-humanity",
+        "urlToImage":"https:\/\/a.fsdn.com\/sd\/topics\/ai_64.png",
+        "publishedAt":"2025-11-06T23:45:00Z",
+        "content":"The new Microsoft AI research group will focus on providing useful companions for people that can help in education and other domains, Suleyman wrote in his blog post. It will also pursue narrow area\u2026 [+457 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"BBC News"
+        },
+        "author":null,
+        "title":"Fossil fuel emissions rise again - but renewables boom offers hope for climate",
+        "description":"Carbon emissions from burning fossil fuels are forecast to reach a new high in 2025 but could soon peak.",
+        "url":"https:\/\/www.bbc.com\/news\/articles\/c620q30w0q0o",
+        "urlToImage":"https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/0935\/live\/4af5ad30-c01b-11f0-9d56-0b951cdd0436.jpg",
+        "publishedAt":"2025-11-13T03:16:15Z",
+        "content":"Mark Poynting,Climate reporter and \r\nMatt McGrath,Environment correspondent\r\nThe world's burning of fossil fuels is set to release more planet-warming carbon dioxide than ever before this year, new f\u2026 [+5514 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Android Central"
+        },
+        "author":"jerry.hildenbrand@futurenet.com (Jerry Hildenbrand) , Jerry Hildenbrand",
+        "title":"Google says its new carbon capture initiative unlocks 'a critical technology pathway to enable a clean, affordable, reliable energy future,' but are initiatives like this a savior or a smokescreen as AI becomes more power-hungry?",
+        "description":"AI is turning the already problematic issues computing has on the environment into a nightmare. Is there a solution?",
+        "url":"https:\/\/www.androidcentral.com\/apps-software\/ai\/google-carbon-capture-initiative-a-savior-or-a-smokescreen",
+        "urlToImage":"https:\/\/cdn.mos.cms.futurecdn.net\/36D3om9dtybjimLceef8aZ-1124-80.jpg",
+        "publishedAt":"2025-10-25T15:04:00Z",
+        "content":"(Image credit: Future)\r\nOne of the web's longest-running tech columns, Android &amp; Chill is your Saturday discussion of Android, Google, and all things tech.\r\nAI has woven itself into the very fabr\u2026 [+7780 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Futurism"
+        },
+        "author":"Victor Tangermann",
+        "title":"Australia Now Has So Much Solar Power That It\u2019s Giving Electricity Out for Free",
+        "description":"And the government is encouraging people to use their most power-hungry appliances.",
+        "url":"https:\/\/futurism.com\/science-energy\/australia-solar-power-free-electricity",
+        "urlToImage":"https:\/\/s.yimg.com\/ny\/api\/res\/1.2\/UWU.0yTPZYcB_LYJlwZxmg--\/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzA7Y2Y9d2VicA--\/https:\/\/media.zenfs.com\/en\/futurism_981\/ce7f99372a9997e64f92d166cfc88ce7",
+        "publishedAt":"2025-11-07T15:21:33Z",
+        "content":"Australia is generating so much solar power that its now giving it out for free.\r\nAs The Guardian reports, residents in three of the countrys states New South Wales, south-east Queensland, and South \u2026 [+2323 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Yahoo Entertainment"
+        },
+        "author":"Tsvetana Paraskova",
+        "title":"Massive U.S. Tariffs Drive Closer India-Brazil Alliance",
+        "description":"The two BRICS nations signed new agreements in agriculture, renewable energy, infrastructure, and innovation.",
+        "url":"https:\/\/finance.yahoo.com\/news\/massive-u-tariffs-drive-closer-230000925.html",
+        "urlToImage":"https:\/\/media.zenfs.com\/en\/oilprice.com\/315f61f43fd7176a2d785141a07e0a64",
+        "publishedAt":"2025-10-22T23:00:00Z",
+        "content":"Two of the founding members of the BRICS alliance, India and Brazil, drew the short straw when it comes to new U.S. trade policy. South America\u2019s largest economy and Asia\u2019s second-biggest economy hav\u2026 [+4880 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Slashdot.org"
+        },
+        "author":"BeauHD",
+        "title":"First Look at the Amazon's Nuclear Facility Planned For Washington State",
+        "description":"Amazon is investing hundreds of millions into the Cascade Advanced Energy Facility, a next-generation small modular reactor project in Richland, Washington, developed with X-energy and Energy Northwest. \"The question now is will it be enough to kick off a new\u2026",
+        "url":"https:\/\/hardware.slashdot.org\/story\/25\/10\/17\/2314242\/first-look-at-the-amazons-nuclear-facility-planned-for-washington-state",
+        "urlToImage":"https:\/\/a.fsdn.com\/sd\/topics\/power_64.png",
+        "publishedAt":"2025-10-18T01:25:00Z",
+        "content":"The facility will be located near Richland, Wash., near Energy Northwest's Columbia Generating Station nuclear plant. The initial goal is to install a cluster of four small modular reactors (SMRs) th\u2026 [+2020 chars]"
+    },
+    {
+        "source":{
+            "id":"business-insider",
+            "name":"Business Insider"
+        },
+        "author":"Alistair Barr",
+        "title":"Nvidia backs $6 billion battery recycling giant in bid to power the AI boom",
+        "description":"Redwood Materials raises $350 million from investors including Eclipse Ventures and Nvidia. The money will help fund a new energy storage business.",
+        "url":"https:\/\/www.businessinsider.com\/nvidia-backs-redwood-materials-battery-recycling-power-ai-boom-2025-10",
+        "urlToImage":"https:\/\/i.insider.com\/68f9305f0be9845f2dc4e8a8?width=1200&format=jpeg",
+        "publishedAt":"2025-10-23T12:00:01Z",
+        "content":"Redwood Materials' campus in Nevada, with its new energy storage system on the left, a solar array in the center, and a Google data center on the far right.Redwood Materials\r\n<ul><li>Redwood Material\u2026 [+4005 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Slashdot.org"
+        },
+        "author":"msmash",
+        "title":"Global Use of Coal Hit Record High in 2024",
+        "description":"Coal use hit a record high around the world last year despite efforts to switch to clean energy, imperilling the world's attempts to rein in global heating. From a report: The share of coal in electricity generation dropped as renewable energy surged ahead. B\u2026",
+        "url":"https:\/\/news.slashdot.org\/story\/25\/10\/22\/1936249\/global-use-of-coal-hit-record-high-in-2024",
+        "urlToImage":"https:\/\/a.fsdn.com\/sd\/topics\/earth_64.png",
+        "publishedAt":"2025-10-22T20:44:00Z",
+        "content":"The share of coal in electricity generation dropped as renewable energy surged ahead. But the general increase in power demand meant that more coal was used overall, according to the annual State of \u2026 [+687 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"9to5Mac"
+        },
+        "author":"Marcus Mendes",
+        "title":"Apple expands environmental initiatives in Australia and New Zealand",
+        "description":"Alongside the expansion of its renewable energy portfolio in Australia, Apple has announced a new Restore Fund investment in New Zealand. Here are the details.\n\n\n\n more\u2026",
+        "url":"https:\/\/9to5mac.com\/2025\/11\/06\/apple-expands-environmental-initiatives-in-australia-and-new-zealand\/",
+        "urlToImage":"https:\/\/i0.wp.com\/9to5mac.com\/wp-content\/uploads\/sites\/6\/2024\/09\/apple-climate-2030-green.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt":"2025-11-06T20:59:46Z",
+        "content":"Alongside the expansion of its renewable energy portfolio in Australia, Apple has announced a new Restore Fund investment in New Zealand. Here are the details.\r\nIn a press release issued earlier toda\u2026 [+2384 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Hackaday"
+        },
+        "author":"Al Williams",
+        "title":"What has 5,000 Batteries and Floats?",
+        "description":"While it sounds like the start of a joke, Australian shipmaker Incat Tasmania isn\u2019t kidding around about electric ships. Hull 096 has started charging, although it has only 85% of the over 5,\u2026",
+        "url":"https:\/\/hackaday.com\/2025\/11\/08\/what-has-5000-batteries-and-floats\/",
+        "urlToImage":"https:\/\/hackaday.com\/wp-content\/uploads\/2025\/11\/eship.png",
+        "publishedAt":"2025-11-08T12:00:19Z",
+        "content":"While it sounds like the start of a joke, Australian shipmaker Incat Tasmania isn\u2019t kidding around about electric ships. Hull 096 has started charging, although it has only 85% of the over 5,000 lith\u2026 [+1842 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Yahoo Entertainment"
+        },
+        "author":"Tsvetana Paraskova",
+        "title":"Swedish Industrial Giants Bet Big on Small Modular Nuclear Reactors",
+        "description":"Sweden\u2019s leading industrial companies have partnered with Vattenfall to develop small modular reactors through a new joint venture, marking a major step in...",
+        "url":"https:\/\/finance.yahoo.com\/news\/swedish-industrial-giants-bet-big-123000581.html",
+        "urlToImage":"https:\/\/media.zenfs.com\/en\/oilprice.com\/18f2f4ed0a9895f5debcd2e5d3949c6b",
+        "publishedAt":"2025-11-10T12:30:00Z",
+        "content":"Sweden\u2019s biggest industrial firms have signed an agreement with Vattenfall to become shareholders in the power giant\u2019s new company, Videberg Kraft AB, which plans to build small modular reactors (SMR\u2026 [+2615 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Bolde.com"
+        },
+        "author":"Drea Rose",
+        "title":"14 U.S. States Most Likely To Survive A Global Climate Crisis",
+        "description":"As climate change gets worse, these states are the most likely to survive it.",
+        "url":"https:\/\/www.bolde.com\/14-u-s-states-most-likely-to-survive-a-global-climate-crisis\/",
+        "urlToImage":"https:\/\/media.zenfs.com\/en\/the_bolde_articles_237\/448c0874cc1cf27b6943ef552cc780cb",
+        "publishedAt":"2025-10-24T10:15:45Z",
+        "content":"Facing a global climate crisis is daunting, but for some U.S. states, the path to survival might be a bit more manageable. If you're wondering which places in the U.S. are most likely to withstand th\u2026 [+16048 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Gizmodo.com"
+        },
+        "author":"Ellyn Lapointe",
+        "title":"Congrats, Humanity: We\u2019re on Track for Record CO2 Emissions\u2014Again",
+        "description":"Preliminary data on this year\u2019s carbon emissions reinforces the fact that we need to act as fast as possible to avoid the worst impacts of climate change.",
+        "url":"https:\/\/gizmodo.com\/congrats-humanity-were-on-track-for-record-co2-emissions-again-2000685164",
+        "urlToImage":"https:\/\/gizmodo.com\/app\/uploads\/2025\/09\/smokestacks-1200x675.jpg",
+        "publishedAt":"2025-11-13T00:01:13Z",
+        "content":"With the 30th United Nations Climate Change Conference (COP 30) underway this week, researchers have shared a first look at this years carbon emissions data. The findings show that global emissions f\u2026 [+4774 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Yahoo Entertainment"
+        },
+        "author":"Mike Taylor",
+        "title":"Researchers uncover concerning side effect of AI boom: 'Powers the servers'",
+        "description":"Several states have weighed legislation to address it.",
+        "url":"https:\/\/www.yahoo.com\/news\/articles\/researchers-uncover-concerning-side-effect-003500541.html",
+        "urlToImage":"https:\/\/s.yimg.com\/ny\/api\/res\/1.2\/k1o1UAaVDPTnz4lLqiA._Q--\/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--\/https:\/\/media.zenfs.com\/en\/the_cool_down_737\/350841338cad69d07d8434bb17ac2d93",
+        "publishedAt":"2025-11-14T00:35:00Z",
+        "content":"Many of the details about the energy consumption of data centers and artificial intelligence are unclear. But a new analysis reveals how much power these facilities require and the effects on everyda\u2026 [+2668 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Yahoo Entertainment"
+        },
+        "author":"OLIVIA DIAZ and MIKE CATALINI",
+        "title":"Debate over energy costs fuels clear divide in New Jersey and Virginia governor's races",
+        "description":"One Virginia voter, Kim Wilson, lamented at a town hall recently that her electricity bill seems to go up every month, no matter how much she tries to...",
+        "url":"https:\/\/www.yahoo.com\/news\/articles\/debate-over-energy-costs-fuels-115215418.html",
+        "urlToImage":"https:\/\/s.yimg.com\/ny\/api\/res\/1.2\/M2QEQ0DAN0pYgxwscrmsGQ--\/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--\/https:\/\/media.zenfs.com\/en\/ap.org\/8e6987878ba147e73beb41904c5e5ecb",
+        "publishedAt":"2025-10-31T11:52:15Z",
+        "content":"FREDERICKSBURG, Va. (AP) If there's agreement on anything in the two states with governor's races this year, it's that utility bills are a growing concern among voters.\r\nOne Virginia voter, Kim Wilso\u2026 [+5884 chars]"
+    },
+    {
+        "source":{
+            "id":"the-verge",
+            "name":"The Verge"
+        },
+        "author":"Justine Calma",
+        "title":"How deep-sea mining could threaten a vital ocean food source",
+        "description":"The race to mine battery minerals from the ocean floor would create a new stream of waste that could rob sea life of a critical food source, according to new research published today in the journal Nature Communications. That could have far-reaching effects a\u2026",
+        "url":"https:\/\/www.theverge.com\/news\/814694\/deep-sea-mining-waste-battery-metals-research-trump",
+        "urlToImage":"https:\/\/platform.theverge.com\/wp-content\/uploads\/sites\/2\/2025\/11\/gettyimages-1234090659.jpg?quality=90&strip=all&crop=0%2C10.736442418751%2C100%2C78.527115162497&w=1200",
+        "publishedAt":"2025-11-06T01:22:59Z",
+        "content":"<ul><li><\/li><li><\/li><li><\/li><\/ul>\r\nNew industry-backed research shows how waste from deep-sea mining could have far-reaching effects on fish and their food.\r\nNew industry-backed research shows how\u2026 [+9818 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Yahoo Entertainment"
+        },
+        "author":"Lindy Whitehouse",
+        "title":"Woman shares head-slappingly simple tip that cut her utility bill in half: 'I was so shocked at the difference'",
+        "description":"\u201cEasy tip to save on your electric bill!\u201d",
+        "url":"https:\/\/www.yahoo.com\/lifestyle\/articles\/woman-shares-head-slappingly-simple-100000927.html",
+        "urlToImage":"https:\/\/s.yimg.com\/ny\/api\/res\/1.2\/s3OhvES2uM2lLGrleH333w--\/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzY7Y2Y9d2VicA--\/https:\/\/media.zenfs.com\/en\/the_cool_down_737\/72aacdb643f4e64f3f3ebd60d1c34a36",
+        "publishedAt":"2025-10-20T10:00:00Z",
+        "content":"Electricity bills have continued to rise over the last few decades, forcing some families to choose between electricity and other essentials. This handy tip, shared on TikTok, could help you cut your\u2026 [+2487 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Slashdot.org"
+        },
+        "author":"msmash",
+        "title":"New Delhi Pollution Hits Five-Year High",
+        "description":"Air pollution in New Delhi hit a five-year high this week, as Diwali fireworks combined with farming fires to shroud the city in a toxic haze. From a report: The annual spike has become something of a tradition in the megalopolis, with some parts of the city \u2026",
+        "url":"https:\/\/news.slashdot.org\/story\/25\/10\/22\/1818215\/new-delhi-pollution-hits-five-year-high",
+        "urlToImage":"https:\/\/a.fsdn.com\/sd\/topics\/earth_64.png",
+        "publishedAt":"2025-10-22T19:22:00Z",
+        "content":"The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"9to5Mac"
+        },
+        "author":"Marcus Mendes",
+        "title":"Apple doubles down on green energy investments in Europe and China",
+        "description":"Apple announced today an expansion of its environmental initiatives across five European countries, along with a new donation to support environmental education in China. Here are the details.\n\n\n\n more\u2026",
+        "url":"https:\/\/9to5mac.com\/2025\/10\/14\/apple-doubles-down-on-green-energy-investments-in-europe-and-china\/",
+        "urlToImage":"https:\/\/i0.wp.com\/9to5mac.com\/wp-content\/uploads\/sites\/6\/2025\/10\/apple-solar-array-segovia-spain.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt":"2025-10-14T20:02:07Z",
+        "content":"Apple announced today an expansion of its environmental initiatives across five European countries, along with a new donation to support environmental education in China. Here are the details.\r\nIn a \u2026 [+3000 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Yanko Design"
+        },
+        "author":"Pooja Khanna Tyagi",
+        "title":"5 Sustainable Travel Products That Don\u2019t Look Like They\u2019re Made From Grass",
+        "description":"5 Sustainable Travel Products That Don\u2019t Look Like They\u2019re Made From GrassFollowing a sustainable lifestyle is important even when you are traveling, as eco-conscious travel blends innovation with environmental responsibility. By focusing on renewable materia\u2026",
+        "url":"https:\/\/www.yankodesign.com\/2025\/10\/26\/5-sustainable-travel-products-that-dont-look-like-theyre-made-from-grass\/",
+        "urlToImage":"https:\/\/www.yankodesign.com\/images\/design_news\/2025\/10\/5-sustainable-travel-products-that-dont-look-like-theyre-made-from-grass\/Sustainable-Travel_Products_Eco-friendly_19.jpg",
+        "publishedAt":"2025-10-26T11:40:34Z",
+        "content":"Following a sustainable lifestyle is important even when you are traveling, as eco-conscious travel blends innovation with environmental responsibility. By focusing on renewable materials, energy eff\u2026 [+10659 chars]"
+    },
+    {
+        "source":{
+            "id":null,
+            "name":"Yahoo Entertainment"
+        },
+        "author":"DEREK GATOPOULOS, THEODORA TONGAS and MAURICIO SAVARESE",
+        "title":"Trump's energy secretary slams UN climate conference in Brazil, where US absence is glaring",
+        "description":"U.S. Energy Secretary Chris Wright on Friday condemned the COP30 environmental summit as harmful and misguided \u2014 defying the global scientific consensus and ...",
+        "url":"https:\/\/www.yahoo.com\/news\/articles\/trumps-energy-secretary-slams-un-184153746.html",
+        "urlToImage":"https:\/\/s.yimg.com\/ny\/api\/res\/1.2\/EBgLnfVpKuXP9.44VjI3rw--\/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--\/https:\/\/media.zenfs.com\/en\/ap.org\/479703dc5ba33881e221e31314b24fd6",
+        "publishedAt":"2025-11-07T18:41:53Z",
+        "content":"ATHENS, Greece (AP) U.S. Energy Secretary Chris Wright on Friday condemned the COP30 environmental summit as harmful and misguided defying the global scientific consensus and concern by governments w\u2026 [+5564 chars]"
+    }
+]

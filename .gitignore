@@ -1,0 +1,12 @@
+# Ignore the Python virtual environment
+venv/
+
+# Ignore the file containing secret API keys
+.env
+
+# Ignore Python's temporary compiled files
+__pycache__/
+
+# Ignore IDE-specific files (optional but good practice)
+.vscode/
+.idea/

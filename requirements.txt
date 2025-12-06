@@ -1,0 +1,26 @@
+# For web scraping and API requests
+requests
+beautifulsoup4
+
+# For data processing and analysis
+pandas
+numpy
+openpyxl
+
+# For Natural Language Processing (keyword extraction)
+nltk
+
+# For AI integration (Google Gemini)
+google-generativeai
+python-dotenv
+
+# For data visualization
+matplotlib
+seaborn
+wordcloud
+
+# For Google Trends API
+pytrends
+
+# For NewsAPI.org
+newsapi-python

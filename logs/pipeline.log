@@ -1,0 +1,63 @@
+2025-11-15 15:39:52,542 - INFO - main - =============================================
+2025-11-15 15:39:52,543 - INFO - main - 🚀 STARTING MARKET TRENDS PIPELINE for topic: 'Renewable Energy' 🚀
+2025-11-15 15:39:52,543 - INFO - main - =============================================
+2025-11-15 15:39:52,544 - INFO - main - --- Starting Phase 1: Data Collection ---
+2025-11-15 15:39:52,545 - INFO - api_client - Fetching Google Trends data for keyword: 'Renewable Energy'
+2025-11-15 15:39:56,999 - INFO - api_client - Successfully fetched Google Trends data.
+2025-11-15 15:39:57,017 - INFO - api_client - Fetching NewsAPI.org articles for keyword: 'Renewable Energy'
+2025-11-15 15:39:58,503 - INFO - api_client - Successfully fetched 30 articles from NewsAPI.org.
+2025-11-15 15:39:58,504 - INFO - scraper - Starting limited web scraping process...
+2025-11-15 15:40:00,711 - INFO - scraper - Found 15 potential articles. Scraping details for up to 10...
+2025-11-15 15:40:00,712 - INFO - scraper - Visiting article: https://www.renewableenergyworld.com/power-grid/grid-modernization/is-ai-a-workflow-tool-or-utility-strategy-top-takeaways-from-itron-inspire/
+2025-11-15 15:40:01,539 - INFO - scraper - Visiting article: https://www.renewableenergyworld.com/power-grid/grid-modernization/loads-of-trouble-how-measurement-helps-manage-the-large-load-challenge/
+2025-11-15 15:40:02,540 - INFO - scraper - Visiting article: https://www.renewableenergyworld.com/energy-business/why-factor-this-three-legacy-energy-publications-are-better-together/
+2025-11-15 15:40:03,410 - INFO - scraper - Visiting article: https://www.renewableenergyworld.com/news/new-kansas-rules-set-guidelines-for-data-centers-big-power-users-to-protect-smaller-customers/
+2025-11-15 15:40:04,232 - INFO - scraper - Visiting article: https://www.renewableenergyworld.com/power-grid/outage-management/case-study-undergrounding-distribution-circuits-for-long-term-cost-savings/
+2025-11-15 15:40:05,062 - INFO - scraper - Visiting article: https://www.renewableenergyworld.com/power-grid/grid-modernization/leading-virtual-power-plant-platform-more-than-doubles-its-load-relief-from-last-year/
+2025-11-15 15:40:05,977 - INFO - scraper - Visiting article: https://www.renewableenergyworld.com/news/how-is-gainesville-regional-utilities-leveraging-ai-and-ami-to-modernize-the-grid/
+2025-11-15 15:40:06,847 - INFO - scraper - Visiting article: https://www.renewableenergyworld.com/energy-business/policy-and-regulation/doe-directs-ferc-to-rapidly-accelerate-large-load-data-center-interconnection/
+2025-11-15 15:40:07,661 - INFO - scraper - Visiting article: https://www.renewableenergyworld.com/energy-business/federal-mandate-for-utilities-to-focus-on-reliability-and-affordability/
+2025-11-15 15:40:08,510 - INFO - scraper - Visiting article: https://www.renewableenergyworld.com/electric-vehicle/gridfast-and-furious-epri-initiative-expediting-ev-infrastructure-deployment/
+2025-11-15 15:40:09,420 - INFO - scraper - Successfully scraped 10 articles with full details.
+2025-11-15 15:40:09,428 - INFO - scraper - Raw scraped data successfully saved to data\raw_scraped_data.json
+2025-11-15 15:40:09,437 - INFO - main - --- Finished Phase 1: Data Collection ---
+2025-11-15 15:40:09,437 - INFO - main - --- Starting Phase 2: Data Processing ---
+2025-11-15 15:40:09,438 - INFO - processor - Starting data processing and merging phase...
+2025-11-15 15:40:09,495 - INFO - processor - Loaded 53 records from Google Trends, 30 from NewsAPI, and 10 from scraping.
+2025-11-15 15:40:09,519 - INFO - processor - 40 unique articles remain after deduplication.
+2025-11-15 15:40:09,532 - INFO - processor - Successfully merged all data. Total records: 93
+2025-11-15 15:40:10,522 - INFO - processor - Keyword extraction complete.
+2025-11-15 15:40:10,969 - INFO - processor - Processed data successfully saved to data\processed_data.xlsx
+2025-11-15 15:40:11,002 - INFO - main - --- Finished Phase 2: Data Processing ---
+2025-11-15 15:40:11,133 - INFO - main - --- Starting Phase 3: AI Enrichment ---
+2025-11-15 15:40:11,195 - INFO - llm_utils - Starting AI enrichment phase...
+2025-11-15 15:40:11,288 - INFO - llm_utils - Google Gemini model configured successfully.
+2025-11-15 15:40:11,292 - INFO - llm_utils - Starting BATCH sentiment analysis...
+2025-11-15 15:40:23,704 - INFO - llm_utils - Successfully received batch sentiment analysis from LLM.
+2025-11-15 15:40:24,708 - INFO - llm_utils - Generating high-level summary of emerging trends...
+2025-11-15 15:40:43,002 - INFO - llm_utils - Successfully saved enriched data back to data\processed_data.xlsx
+2025-11-15 15:40:43,016 - INFO - main - --- Finished Phase 3: AI Enrichment ---
+2025-11-15 15:40:43,018 - INFO - main - --- Starting Phase 4: Visualization ---
+2025-11-15 15:40:43,185 - INFO - visualizer - Starting visualization generation...
+2025-11-15 15:40:43,691 - INFO - visualizer - Generating Trend Over Time Chart...
+2025-11-15 15:40:46,078 - INFO - visualizer - Chart saved to reports\visuals\trend_over_time.png
+2025-11-15 15:40:46,088 - INFO - visualizer - Generating Sentiment Distribution Chart...
+2025-11-15 15:40:47,435 - INFO - visualizer - Chart saved to reports\visuals\sentiment_distribution.png
+2025-11-15 15:40:47,450 - INFO - visualizer - Generating Keyword Frequency Chart...
+2025-11-15 15:40:49,110 - INFO - visualizer - Chart saved to reports\visuals\keyword_frequency.png
+2025-11-15 15:40:49,112 - INFO - visualizer - Generating Data Source Comparison Chart...
+2025-11-15 15:40:49,779 - INFO - visualizer - Chart saved to reports\visuals\source_comparison.png
+2025-11-15 15:40:49,780 - INFO - visualizer - All four visualizations have been generated successfully.
+2025-11-15 15:40:49,780 - INFO - main - --- Finished Phase 4: Visualization ---
+2025-11-15 15:40:49,781 - INFO - main - --- Starting Phase 5: Report Generation ---
+2025-11-15 15:40:49,781 - INFO - reporter - Starting final report generation...
+2025-11-15 15:40:49,830 - INFO - llm_utils - Google Gemini model configured successfully.
+2025-11-15 15:40:49,830 - INFO - reporter - Generating executive summary...
+2025-11-15 15:40:57,944 - INFO - llm_utils - Generating high-level summary of emerging trends...
+2025-11-15 15:41:13,352 - INFO - reporter - Constructing final HTML report...
+2025-11-15 15:41:13,359 - INFO - reporter - HTML report successfully saved to reports\market_trends_report.html
+2025-11-15 15:41:13,360 - INFO - main - --- Finished Phase 5: Report Generation ---
+2025-11-15 15:41:13,361 - INFO - main - ===================================================
+2025-11-15 15:41:13,361 - INFO - main - ✅ PIPELINE COMPLETED SUCCESSFULLY ✅
+2025-11-15 15:41:13,362 - INFO - main - ===================================================
+2025-11-15 15:41:13,363 - INFO - main - All outputs have been generated in the 'data', 'reports', and 'logs' directories.
